@@ -31,4 +31,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            reprover/mirai-http:latest
+            maxzhang666/mirai-http:latest
